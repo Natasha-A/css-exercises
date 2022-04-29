@@ -1,0 +1,22 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd {
+  background-color: pink;
+}
+
+.odd.odd-cooler {
+  font-size: 20px;
+}
+
+#num2 {
+  font-size: 40px;
+  color:blue;
+}
+
+#num4 {
+  background-color: turquoise;
+  font-weight: bold;
+  font-size: 20px;
+}
